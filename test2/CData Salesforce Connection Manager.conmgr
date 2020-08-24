@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="CData Salesforce Connection Manager"
+  DTS:DTSID="{EB6B82DA-E143-4C32-B315-5F6A43916D2D}"
+  DTS:CreationName="CDATA_SALESFORCE">
+  <DTS:ObjectData>
+    <SalesforceConnectionManager>
+      <Property
+        Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA66VhVq5V0UayYEAHg96+DAAAAAACAAAAAAAQZgAAAAEAACAAAACL8sT0dGzBXV676Pi8hpHKkf9fa0mr6um3cQw0Oo+/oAAAAAAOgAAAAAIAACAAAAD31/xJ42wWGz0nTMAmMJ6Oqrqzk6P6HMFAwyoXQrjIgkAAAAC5taUxc3N4X5rtPTT+dDYZFXmnhnttowja5mebyApoM8mYnpLlShtm4c5fQfJK/XHJ+VZuVYRRPuWFlc0DePDVQAAAAEsAObDSl0sAdQlBqJiruBGrEbgOsA/n1pyzYNqtZDYwuzbhQ7vwTUTG10IW69iiJRKhu1+uENYb5oxFIf9/CQs=</Property>
+      <Property
+        Name="ConnectionString">rtk='';security token=KZgB0tVGkGThiOmIHdkfnKFhM;user=akash.wagh@gauri.com</Property>
+    </SalesforceConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
